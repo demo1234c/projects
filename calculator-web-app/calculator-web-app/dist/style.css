@@ -1,0 +1,27 @@
+body {
+text-align: center;
+}
+.ibox {
+width: 200px;
+background-color: yellowgreen;
+margin-left: 20px;
+}
+#firstno {
+  margin-left: 38px;
+}
+.ibox2 {
+  width: 200px;
+  background-color: yellowgreen;
+  margin-left: 20px;
+}
+#subFirstNo {
+  margin-left: 38px;
+}
+
+#divSub1 {
+  margin-top: 20px;
+}
+#buttonSub {
+  text-align: center;
+  margin-left: 60px;
+}
